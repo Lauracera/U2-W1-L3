@@ -13,6 +13,7 @@ body {
 
 #card img {
   width: 100%;
+  margin-bottom: 15px;
 }
 
 #text {
@@ -28,6 +29,7 @@ body {
   width: 144px;
   border-radius: 42px;
   margin-bottom: 15px;
+  margin-top: 15px;
 }
 
 span {
