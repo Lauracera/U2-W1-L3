@@ -1,0 +1,35 @@
+body {
+  color: #61250d;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#card {
+  background-color: #fbf7e3;
+  width: 240px;
+  overflow: hidden;
+  border-radius: 80px;
+  text-align: center;
+}
+
+#card img {
+  width: 100%;
+}
+
+#text {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+#btn1 {
+  border: none;
+  color: #61250d;
+  background-color: #f3df85;
+  height: 35px;
+  width: 144px;
+  border-radius: 42px;
+  margin-bottom: 15px;
+}
+
+span {
+  font-weight: bolder;
+}
